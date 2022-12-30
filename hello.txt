@@ -5,3 +5,4 @@ jkfllaj		dsfkla;
 add something on branch 'hot'
 
 master test
+hot-fix test

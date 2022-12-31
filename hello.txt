@@ -6,3 +6,5 @@ add something on branch 'hot'
 
 master test
 hot-fix test
+
+cloud change;
